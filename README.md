@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JackieZ1412</h1>
 <h3 align="center">A student from USTC</h3>
 
-- 🔭 I’m currently working on **KDELab@USTC**
+- 🔭 I’m currently working in **KDELab@USTC**
 
 - 🌱 I’m currently learning **Database Management System and Distributed System**
 
