@@ -23,9 +23,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-802%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-803%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -64,16 +64,24 @@ Sunday                   10 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        51 mins             ████████████████░░░░░░░░░   65.63 % 
+C++                      20 mins             ███████░░░░░░░░░░░░░░░░░░   26.46 % 
+Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 18 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+FrozenHot                1 hr 12 mins        ███████████████████████░░   92.09 % 
+webcachesim              5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Twitter_Cache-Trace      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 17 mins        █████████████████████████   99.55 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,5 +97,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2024 18:40:13 UTC
+ Last Updated on 01/07/2024 18:40:54 UTC
 <!--END_SECTION:waka-->
