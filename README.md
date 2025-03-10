@@ -23,7 +23,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C075%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C077%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -64,16 +64,20 @@ Sunday                   10 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     1 hr 23 mins        ███████████████░░░░░░░░░░   61.02 % 
+Text                     42 mins             ████████░░░░░░░░░░░░░░░░░   30.87 % 
+C++                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+webcachesim              2 hrs 5 mins        ███████████████████████░░   91.88 % 
+3L-Cache                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+SimpleBufferSim          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,5 +93,5 @@ Assembly                 1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/03/2025 18:38:33 UTC
+ Last Updated on 10/03/2025 18:46:09 UTC
 <!--END_SECTION:waka-->
