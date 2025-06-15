@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **KDELab@USTC**
 
-- 🌱 I’m currently learning **Buffer Replacement, Index Design, Query Optimizer in DBMS**
+- 🌱 I’m currently learning **Buffer Replacement, Vector Index Design in DBMS**
 
 - 📫 How to reach me **zya1412@mail.ustc.edu.cn**
 
