@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JackieZ1412</h1>
 <h3 align="center">A student from USTC</h3>
 
-- 🔭 I’m currently working in **KDELab@USTC**
+- 🔭 I’m currently working in [**KDELab@USTC**](http://kdelab.ustc.edu.cn/)
 
 - 🌱 I’m currently learning **Buffer Replacement, Vector Index Design in DBMS**
 
