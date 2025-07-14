@@ -31,8 +31,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 23 Public Repositories 
@@ -100,5 +98,5 @@ Assembly                 1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/07/2025 18:49:53 UTC
+ Last Updated on 14/07/2025 18:55:54 UTC
 <!--END_SECTION:waka-->
