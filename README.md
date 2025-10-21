@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm JackieZ1412</h1>
 <h3 align="center">A student from USTC</h3>
 
-- 🔭 I’m currently working in [**KDELab@USTC**](http://kdelab.ustc.edu.cn/)
+- 🔭 I’m currently working at [**KDELab@USTC**](http://kdelab.ustc.edu.cn/)
 
-- 🌱 I’m currently learning **Buffer Replacement, Vector Index Design in DBMS**
+- 🌱 I’m currently learning **Cache Design for Storage Systems and LLM, Vector Index Design for VectorDB**.
 
 - 📫 How to reach me **zya1412@mail.ustc.edu.cn**
 
