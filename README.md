@@ -66,18 +66,16 @@ Sunday                   11 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 min               ██████████████░░░░░░░░░░░   55.60 % 
-Bash                     1 min               ███████████░░░░░░░░░░░░░░   44.40 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-zya                      2 mins              ████████████████████████░   97.46 % 
-webcachesim              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -93,5 +91,5 @@ Assembly                 1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/12/2025 18:56:10 UTC
+ Last Updated on 16/12/2025 18:56:00 UTC
 <!--END_SECTION:waka-->
