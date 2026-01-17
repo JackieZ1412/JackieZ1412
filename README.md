@@ -66,17 +66,16 @@ Sunday                   11 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-示例代码+测试样例                28 mins             ████████████████████░░░░░   80.90 % 
-vllm                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -92,5 +91,5 @@ Assembly                 1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/01/2026 18:56:41 UTC
+ Last Updated on 17/01/2026 18:51:22 UTC
 <!--END_SECTION:waka-->
