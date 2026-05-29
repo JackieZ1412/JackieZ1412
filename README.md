@@ -23,6 +23,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C722%20hrs%206%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -99,5 +101,5 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2026 20:56:28 UTC
+ Last Updated on 29/05/2026 20:58:41 UTC
 <!--END_SECTION:waka-->
