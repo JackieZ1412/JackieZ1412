@@ -23,7 +23,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C924%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C926%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -66,23 +66,23 @@ Sunday                   11 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-Python                   3 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-C++                      2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Bash                     2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-TeX                      1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Markdown                 3 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+TeX                      3 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+Python                   2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+C++                      1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Bash                     1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 56 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 15 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-zya                      13 hrs              ████████████████████░░░░░   81.57 % 
-libCacheSim              1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Unknown Project          1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+zya                      12 hrs 3 mins       ████████████████████░░░░░   79.06 % 
+libCacheSim              2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Unknown Project          51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 codex-cli                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Linux                    15 hrs 56 mins      █████████████████████████   99.98 % 
+Linux                    15 hrs 15 mins      █████████████████████████   99.98 % 
 Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
@@ -99,5 +99,5 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:45:18 UTC
+ Last Updated on 26/07/2026 19:45:00 UTC
 <!--END_SECTION:waka-->
