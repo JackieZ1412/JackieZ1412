@@ -23,17 +23,21 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C865%20hrs%2026%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-226%20hrs%2014%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 18 Contributions in the Year 2026
+> 🏆 19 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 36 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -64,46 +68,47 @@ Sunday                   11 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     6 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-Markdown                 4 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Other                    4 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-TeX                      4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Python                   3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Markdown                 8 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+Bash                     6 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+TeX                      5 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Python                   5 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Other                    4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 4 mins       █████████████████████████   100.00 % 
+VS Code                  34 hrs 35 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-zya                      18 hrs 7 mins       █████████████████░░░░░░░░   69.52 % 
-libCacheSim              7 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.36 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+zya                      23 hrs 19 mins      █████████████████░░░░░░░░   67.44 % 
+libCacheSim              9 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+R-KV                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 codex-cli                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    26 hrs 4 mins       █████████████████████████   99.99 % 
+Linux                    34 hrs 35 mins      █████████████████████████   99.99 % 
 Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 18 mins (97.05%)
+⏱ AI Coding Time: 33 hrs 32 mins (96.96%)
 
-✍️ 20,155 lines written by AI, 85 lines written by hand (99.58% AI-written)
+✍️ 35,430 lines written by AI, 88 lines written by hand (99.75% AI-written)
 
-🔤 2,444,927,395 Input Tokens, 6,445,255 Output Tokens
+🔤 2,640,123,757 Input Tokens, 7,015,612 Output Tokens
 
-💵 $12383.81 Estimated AI Cost This Week
+💵 $13233.38 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 190 AI Prompts
+🧠 33 AI Sessions, 433 AI Prompts
 
-GPT                      21,276 lines        █████████████████████████   100.00 % 
+GPT                      35,427 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.58% of written lines came from AI
-📚 Verbose Prompter — average 9,059 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 26.82% of changed lines were hand-edited
+🤖 AI-Driven — 99.75% of written lines came from AI
+📚 Verbose Prompter — average 7,120 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 17.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -119,5 +124,5 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 20:02:55 UTC
+ Last Updated on 29/07/2026 19:53:39 UTC
 <!--END_SECTION:waka-->
