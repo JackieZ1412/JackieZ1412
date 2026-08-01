@@ -23,9 +23,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C881%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C887%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-241%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-247%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -33,7 +33,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 19 Contributions in the Year 2026
+> 🏆 20 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,45 +68,47 @@ Sunday                   11 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 9 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-Python                   7 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-Bash                     6 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Other                    5 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-TeX                      4 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Markdown                 11 hrs 17 mins      ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
+Bash                     8 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Python                   8 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+Other                    5 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+C++                      3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
 
 🔥 Editors: 
-VS Code                  41 hrs 47 mins      █████████████████████████   100.00 % 
+VS Code                  46 hrs 4 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-zya                      23 hrs 21 mins      ██████████████░░░░░░░░░░░   55.91 % 
-libCacheSim              14 hrs 17 mins      █████████░░░░░░░░░░░░░░░░   34.19 % 
-R-KV                     3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Unknown Project          35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+zya                      25 hrs 40 mins      ██████████████░░░░░░░░░░░   55.72 % 
+libCacheSim              15 hrs 47 mins      █████████░░░░░░░░░░░░░░░░   34.26 % 
+R-KV                     3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Unknown Project          45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+triattention             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Linux                    41 hrs 47 mins      █████████████████████████   100.00 % 
+Linux                    45 hrs 55 mins      █████████████████████████   99.65 % 
+Mac                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 hrs 59 mins (95.72%)
+⏱ AI Coding Time: 43 hrs 54 mins (95.31%)
 
-✍️ 84,303 lines written by AI, 74 lines written by hand (99.91% AI-written)
+✍️ 88,984 lines written by AI, 75 lines written by hand (99.92% AI-written)
 
-🔤 3,725,031,061 Input Tokens, 9,951,520 Output Tokens
+🔤 3,868,782,826 Input Tokens, 10,309,628 Output Tokens
 
-💵 $14762.22 Estimated AI Cost This Week
+💵 $15068.32 Estimated AI Cost This Week
 
-🧠 50 AI Sessions, 751 AI Prompts
+🧠 52 AI Sessions, 1051 AI Prompts
 
-GPT                      83,082 lines        █████████████████████████   100.00 % 
+GPT                      87,738 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📚 Verbose Prompter — average 8,211 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 8.36% of changed lines were hand-edited
+🤖 AI-Driven — 99.92% of written lines came from AI
+📚 Verbose Prompter — average 8,458 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🚀 High AI Trust — 7.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -122,5 +124,5 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 20:04:08 UTC
+ Last Updated on 01/08/2026 19:44:58 UTC
 <!--END_SECTION:waka-->
