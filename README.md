@@ -23,9 +23,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C922%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C925%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-282%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-285%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -68,47 +68,47 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   11 hrs 57 mins      █████████░░░░░░░░░░░░░░░░   34.44 % 
-Markdown                 8 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-Bash                     4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Other                    2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-TSV                      1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Python                   11 hrs              ██████████░░░░░░░░░░░░░░░   38.73 % 
+Markdown                 7 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+Bash                     3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+C++                      1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+TSV                      1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 
 🔥 Editors: 
-VS Code                  34 hrs 44 mins      █████████████████████████   100.00 % 
+VS Code                  28 hrs 26 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-zya                      26 hrs 46 mins      ███████████████████░░░░░░   77.07 % 
-Unknown Project          3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-CoT-notes                1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-triattention             1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-libCacheSim              51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+zya                      22 hrs 34 mins      ████████████████████░░░░░   79.39 % 
+Unknown Project          2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+CoT-notes                1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+libCacheSim              51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+AdaptiveMassSegment      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 💻 Operating System: 
-Linux                    34 hrs 38 mins      █████████████████████████   99.70 % 
-Mac                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Linux                    28 hrs 24 mins      █████████████████████████   99.90 % 
+Mac                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 1 min (92.15%)
+⏱ AI Coding Time: 26 hrs 18 mins (92.52%)
 
-✍️ 52,911 lines written by AI, 136 lines written by hand (99.74% AI-written)
+✍️ 38,391 lines written by AI, 134 lines written by hand (99.65% AI-written)
 
-🔤 915,106,194 Input Tokens, 3,435,420 Output Tokens
+🔤 588,381,282 Input Tokens, 2,563,820 Output Tokens
 
-💵 $4023.12 Estimated AI Cost This Week
+💵 $2859.29 Estimated AI Cost This Week
 
-🧠 53 AI Sessions, 828 AI Prompts
+🧠 48 AI Sessions, 448 AI Prompts
 
-GPT                      52,845 lines        █████████████████████████   100.00 % 
+GPT                      38,287 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.74% of written lines came from AI
-📚 Verbose Prompter — average 9,931 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 0.5% of changed lines were hand-edited
+🤖 AI-Driven — 99.65% of written lines came from AI
+📚 Verbose Prompter — average 12,040 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.36% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -124,5 +124,5 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 19:08:38 UTC
+ Last Updated on 09/08/2026 19:12:27 UTC
 <!--END_SECTION:waka-->
