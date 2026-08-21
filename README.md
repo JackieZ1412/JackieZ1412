@@ -23,9 +23,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C990%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C993%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-351%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-354%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -68,48 +68,48 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 13 hrs 53 mins      ████████░░░░░░░░░░░░░░░░░   30.39 % 
-Bash                     11 hrs 32 mins      ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-Python                   8 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-C++                      6 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-TSV                      1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Markdown                 12 hrs 7 mins       ████████░░░░░░░░░░░░░░░░░   31.12 % 
+Bash                     8 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+Python                   7 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+C++                      6 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Other                    2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 
 🔥 Editors: 
-Codex Vscode             37 hrs 17 mins      ████████████████████░░░░░   81.63 % 
-VS Code                  8 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+Codex Vscode             31 hrs 58 mins      █████████████████████░░░░   82.06 % 
+VS Code                  6 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
 
 🐱‍💻 Projects: 
-zya                      38 hrs 11 mins      █████████████████████░░░░   83.61 % 
-R-KV                     4 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Unknown Project          2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-3L-Cache                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-CoT-notes                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+zya                      33 hrs 21 mins      █████████████████████░░░░   85.62 % 
+R-KV                     4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Unknown Project          57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+3L-Cache                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+CoT-notes                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Linux                    45 hrs 39 mins      █████████████████████████   99.95 % 
-Mac                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Linux                    38 hrs 56 mins      █████████████████████████   99.94 % 
+Mac                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 44 hrs 19 mins (97.03%)
+⏱ AI Coding Time: 37 hrs 33 mins (96.39%)
 
-✍️ 49,360 lines written by AI, 12 lines written by hand (99.98% AI-written)
+✍️ 46,358 lines written by AI, 19 lines written by hand (99.96% AI-written)
 
-🔤 38,009,372 Input Tokens, 3,298,922 Output Tokens
+🔤 33,253,078 Input Tokens, 3,121,590 Output Tokens
 
-💵 $721.82 Estimated AI Cost This Week
+💵 $627.63 Estimated AI Cost This Week
 
-🧠 49 AI Sessions, 486 AI Prompts
+🧠 49 AI Sessions, 473 AI Prompts
 
-GPT                      49,607 lines        █████████████████████████   100.00 % 
+GPT                      46,603 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 10,257 characters per prompt
+🤖 AI-Driven — 99.96% of written lines came from AI
+📚 Verbose Prompter — average 9,965 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -125,5 +125,5 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 19:11:28 UTC
+ Last Updated on 21/08/2026 19:07:33 UTC
 <!--END_SECTION:waka-->
