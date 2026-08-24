@@ -68,48 +68,49 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     14 hrs 18 mins      ████████░░░░░░░░░░░░░░░░░   31.77 % 
-Markdown                 11 hrs 55 mins      ███████░░░░░░░░░░░░░░░░░░   26.48 % 
-C++                      10 hrs 16 mins      ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
-Python                   3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Other                    2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Bash                     15 hrs 47 mins      ████████░░░░░░░░░░░░░░░░░   31.70 % 
+Markdown                 12 hrs 56 mins      ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
+C++                      12 hrs 11 mins      ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
+Python                   3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Other                    2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
 🔥 Editors: 
-Codex Vscode             30 hrs 43 mins      █████████████████░░░░░░░░   68.18 % 
-VS Code                  14 hrs 20 mins      ████████░░░░░░░░░░░░░░░░░   31.82 % 
+Codex Vscode             34 hrs 42 mins      █████████████████░░░░░░░░   69.68 % 
+VS Code                  15 hrs 6 mins       ████████░░░░░░░░░░░░░░░░░   30.32 % 
 
 🐱‍💻 Projects: 
-zya                      42 hrs 8 mins       ███████████████████████░░   93.53 % 
-triattention             55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-R-KV                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-Unknown Project          30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-ForesightKV              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+zya                      46 hrs 16 mins      ███████████████████████░░   92.86 % 
+triattention             1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Unknown Project          1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+ForesightKV              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+libCacheSim              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 💻 Operating System: 
-Linux                    45 hrs 2 mins       █████████████████████████   99.95 % 
-Mac                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Linux                    49 hrs 48 mins      █████████████████████████   99.96 % 
+Mac                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 hrs 59 mins (95.4%)
+⏱ AI Coding Time: 47 hrs 43 mins (95.78%)
 
-✍️ 37,566 lines written by AI, 23 lines written by hand (99.94% AI-written)
+✍️ 48,331 lines written by AI, 23 lines written by hand (99.95% AI-written)
 
-🔤 43,376,437 Input Tokens, 2,848,025 Output Tokens
+🔤 52,579,893 Input Tokens, 3,458,299 Output Tokens
 
-💵 $571.97 Estimated AI Cost This Week
+💵 $658.01 Estimated AI Cost This Week
 
-🧠 52 AI Sessions, 685 AI Prompts
+🧠 54 AI Sessions, 726 AI Prompts
 
-GPT                      37,884 lines        █████████████████████████   100.00 % 
+GPT                      48,590 lines        █████████████████████████   99.92 % 
+Codex-Vscode             40 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📚 Verbose Prompter — average 11,493 characters per prompt
+🤖 AI-Driven — 99.95% of written lines came from AI
+📚 Verbose Prompter — average 11,917 characters per prompt
 🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 0.08% of changed lines were hand-edited
+🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -125,5 +126,5 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 18:58:17 UTC
+ Last Updated on 24/08/2026 19:10:45 UTC
 <!--END_SECTION:waka-->
