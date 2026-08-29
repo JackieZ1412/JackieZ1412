@@ -68,63 +68,63 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     16 hrs 42 mins      █████████░░░░░░░░░░░░░░░░   35.18 % 
-C++                      11 hrs 24 mins      ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-Markdown                 9 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-Python                   5 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Other                    1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+C++                      14 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   30.52 % 
+Bash                     12 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+Markdown                 9 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Python                   4 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Other                    1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 🔥 Editors: 
-Codex Vscode             32 hrs 23 mins      █████████████████░░░░░░░░   68.16 % 
-VS Code                  15 hrs 7 mins       ████████░░░░░░░░░░░░░░░░░   31.84 % 
+Codex Vscode             34 hrs 47 mins      ██████████████████░░░░░░░   73.45 % 
+VS Code                  12 hrs 34 mins      ███████░░░░░░░░░░░░░░░░░░   26.55 % 
 
 🐱‍💻 Projects: 
-zya                      43 hrs 11 mins      ███████████████████████░░   90.87 % 
-triattention             1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-FreqKV                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-Unknown Project          49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-ForesightKV              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+zya                      39 hrs 37 mins      █████████████████████░░░░   83.63 % 
+SPL-Cache                2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+triattention             1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Unknown Project          1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+FreqKV                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 💻 Operating System: 
-Linux                    47 hrs 30 mins      █████████████████████████   99.98 % 
+Linux                    47 hrs 22 mins      █████████████████████████   99.98 % 
 Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 hrs 53 mins (96.56%)
+⏱ AI Coding Time: 44 hrs 21 mins (93.62%)
 
-✍️ 43,958 lines written by AI, 16 lines written by hand (99.96% AI-written)
+✍️ 40,982 lines written by AI, 24 lines written by hand (99.94% AI-written)
 
-🔤 52,078,726 Input Tokens, 3,176,183 Output Tokens
+🔤 47,228,935 Input Tokens, 3,324,264 Output Tokens
 
-💵 $566.61 Estimated AI Cost This Week
+💵 $512.16 Estimated AI Cost This Week
 
-🧠 55 AI Sessions, 690 AI Prompts
+🧠 64 AI Sessions, 692 AI Prompts
 
-GPT                      44,096 lines        █████████████████████████   99.91 % 
+GPT                      44,160 lines        █████████████████████████   99.91 % 
 Codex-Vscode             40 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 12,303 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 0.12% of changed lines were hand-edited
+🤖 AI-Driven — 99.94% of written lines came from AI
+📚 Verbose Prompter — average 11,661 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Rust                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Makefile                 1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Assembly                 1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Python                   4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+C++                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Rust                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Assembly                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
 
 
- Last Updated on 29/08/2026 01:52:20 UTC
+ Last Updated on 29/08/2026 21:05:33 UTC
 <!--END_SECTION:waka-->
