@@ -23,9 +23,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C078%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C083%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-441%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-446%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
@@ -68,45 +68,45 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     8 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
-Python                   8 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
-Markdown                 7 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-C++                      4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-TeX                      1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Markdown                 8 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   30.62 % 
+Python                   6 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+C++                      3 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+TeX                      2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Bash                     2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 
 🔥 Editors: 
-Codex Vscode             30 hrs 46 mins      ██████████████████████░░░   89.02 % 
-VS Code                  3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Codex Vscode             23 hrs 22 mins      █████████████████████░░░░   84.55 % 
+VS Code                  4 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
 
 🐱‍💻 Projects: 
-zya                      30 hrs 31 mins      ██████████████████████░░░   88.32 % 
-Unknown Project          1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-worktree                 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-SPL-Cache                57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-SPL-Cache-pattern-compact27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+zya                      24 hrs 26 mins      ██████████████████████░░░   88.44 % 
+worktree                 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+SPL-Cache                57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Unknown Project          37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+SPL-Cache-pattern-compact27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 💻 Operating System: 
-Linux                    34 hrs 34 mins      █████████████████████████   100.00 % 
+Linux                    27 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 hrs 58 mins (98.3%)
+⏱ AI Coding Time: 27 hrs 3 mins (97.87%)
 
-✍️ 20,699 lines written by AI, 15 lines written by hand (99.93% AI-written)
+✍️ 20,206 lines written by AI, 14 lines written by hand (99.93% AI-written)
 
-🔤 18,471,213 Input Tokens, 1,955,396 Output Tokens
+🔤 18,608,382 Input Tokens, 1,932,269 Output Tokens
 
-💵 $392.99 Estimated AI Cost This Week
+💵 $394.49 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 340 AI Prompts
+🧠 53 AI Sessions, 375 AI Prompts
 
-GPT                      21,034 lines        █████████████████████████   100.00 % 
+GPT                      20,516 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.93% of written lines came from AI
-📚 Verbose Prompter — average 9,119 characters per prompt
+📚 Verbose Prompter — average 11,166 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.15% of changed lines were hand-edited
 ```
@@ -124,5 +124,5 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026 20:43:12 UTC
+ Last Updated on 07/09/2026 21:43:58 UTC
 <!--END_SECTION:waka-->
