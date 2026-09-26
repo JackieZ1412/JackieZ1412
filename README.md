@@ -68,45 +68,45 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      1 hr 36 mins        █████████░░░░░░░░░░░░░░░░   35.18 % 
-Markdown                 1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
-Python                   1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
-Other                    29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+C++                      1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   38.20 % 
+Python                   1 hr 4 mins         █████████░░░░░░░░░░░░░░░░   34.44 % 
+Other                    29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 28 mins       ███████████████████░░░░░░   75.73 % 
-VS Code                  1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+Codex Vscode             2 hrs 4 mins        █████████████████░░░░░░░░   66.39 % 
+VS Code                  1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   33.61 % 
 
 🐱‍💻 Projects: 
-zya                      3 hrs 21 mins       ██████████████████░░░░░░░   73.19 % 
-Unknown Project          1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   26.81 % 
+zya                      2 hrs               ████████████████░░░░░░░░░   64.49 % 
+Unknown Project          1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   35.51 % 
 
 💻 Operating System: 
-Linux                    3 hrs 40 mins       ████████████████████░░░░░   80.29 % 
-Mac                      54 mins             █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Linux                    2 hrs 12 mins       ██████████████████░░░░░░░   71.01 % 
+Mac                      54 mins             ███████░░░░░░░░░░░░░░░░░░   28.99 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 40 mins (80.22%)
+⏱ AI Coding Time: 2 hrs 12 mins (71.01%)
 
-✍️ 4,004 lines written by AI, 79 lines written by hand (98.07% AI-written)
+✍️ 1,669 lines written by AI, 78 lines written by hand (95.54% AI-written)
 
-🔤 8,344,782 Input Tokens, 1,223,152 Output Tokens
+🔤 7,366,182 Input Tokens, 1,038,396 Output Tokens
 
-💵 $323.65 Estimated AI Cost This Week
+💵 $310.95 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 46 AI Prompts
+🧠 8 AI Sessions, 31 AI Prompts
 
-GPT                      4,006 lines         █████████████████████████   100.00 % 
+GPT                      1,669 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.07% of written lines came from AI
-📝 Concise Prompter — average 101 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 3.05% of changed lines were hand-edited
+🤖 AI-Driven — 95.54% of written lines came from AI
+📝 Concise Prompter — average 100 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 6.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -122,5 +122,5 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 21:46:18 UTC
+ Last Updated on 26/09/2026 21:25:16 UTC
 <!--END_SECTION:waka-->
