@@ -23,9 +23,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C142%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C143%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-506%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-508%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -68,46 +68,48 @@ Sunday                   35 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   29.74 % 
-Python                   1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   28.60 % 
-Text                     1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-C++                      28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Other                    2 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   35.75 % 
+Python                   1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+Text                     1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+JSON                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+C++                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
 
 🔥 Editors: 
-Codex Vscode             6 hrs 1 min         ███████████████████████░░   90.12 % 
-VS Code                  39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Codex Vscode             5 hrs 49 mins       ██████████████████░░░░░░░   70.16 % 
+VS Code                  2 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   28.74 % 
+Codex CLI                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🐱‍💻 Projects: 
-zya                      6 hrs 16 mins       ███████████████████████░░   93.91 % 
-Extended-RaBitQ          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-RaBitQ                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-SPL-Cache                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+zya                      5 hrs 47 mins       █████████████████░░░░░░░░   69.89 % 
+config                   58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+g-p-6a6de004145c8191ba41a41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+SPL-Cache                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 💻 Operating System: 
-Linux                    6 hrs 40 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 26 mins       ███████████████████░░░░░░   77.58 % 
+Mac                      1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 4 mins (90.85%)
+⏱ AI Coding Time: 7 hrs 6 mins (85.71%)
 
 ✍️ 4,530 lines written by AI, 91 lines written by hand (98.03% AI-written)
 
-🔤 3,736,186 Input Tokens, 461,594 Output Tokens
+🔤 4,185,386 Input Tokens, 446,299 Output Tokens
 
-💵 $94.73 Estimated AI Cost This Week
+💵 $108.70 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 80 AI Prompts
+🧠 12 AI Sessions, 109 AI Prompts
 
 GPT                      4,530 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.03% of written lines came from AI
-📝 Concise Prompter — average 137 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📄 Detailed Prompter — average 1,381 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 1.97% of changed lines were hand-edited
 ```
 
@@ -124,5 +126,5 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 22:28:42 UTC
+ Last Updated on 03/10/2026 21:42:34 UTC
 <!--END_SECTION:waka-->
