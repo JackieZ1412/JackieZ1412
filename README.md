@@ -68,50 +68,50 @@ Sunday                   35 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 40 mins       █████████████░░░░░░░░░░░░   51.37 % 
-Other                    2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Text                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-JSON                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-HTML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Python                   6 hrs 58 mins       █████████████░░░░░░░░░░░░   51.92 % 
+Other                    2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Text                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+JSON                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+HTML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 
 🔥 Editors: 
-Codex Vscode             8 hrs 49 mins       █████████████████░░░░░░░░   67.88 % 
-VS Code                  4 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   31.42 % 
-Codex CLI                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Codex Vscode             9 hrs 12 mins       █████████████████░░░░░░░░   68.62 % 
+VS Code                  4 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   30.70 % 
+Codex CLI                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 🐱‍💻 Projects: 
-zya                      10 hrs 30 mins      ████████████████████░░░░░   80.81 % 
-config                   58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-g-p-6a6de004145c8191ba41a41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-SPL-Cache                14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+zya                      10 hrs 56 mins      ████████████████████░░░░░   81.43 % 
+config                   58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+g-p-6a6de004145c8191ba41a41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+SPL-Cache                14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 💻 Operating System: 
-Linux                    11 hrs 6 mins       █████████████████████░░░░   85.46 % 
-Mac                      1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Linux                    11 hrs 32 mins      █████████████████████░░░░   85.93 % 
+Mac                      1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 40 mins (89.84%)
+⏱ AI Coding Time: 12 hrs 6 mins (90.17%)
 
-✍️ 7,942 lines written by AI, 91 lines written by hand (98.87% AI-written)
+✍️ 8,163 lines written by AI, 91 lines written by hand (98.9% AI-written)
 
-🔤 6,331,029 Input Tokens, 1,008,767 Output Tokens
+🔤 6,866,842 Input Tokens, 1,038,441 Output Tokens
 
-💵 $280.57 Estimated AI Cost This Week
+💵 $292.72 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 82 AI Prompts
+🧠 16 AI Sessions, 84 AI Prompts
 
-GPT                      7,945 lines         █████████████████████████   99.96 % 
+GPT                      8,166 lines         █████████████████████████   99.96 % 
 Codex-Vscode             3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.87% of written lines came from AI
-📚 Verbose Prompter — average 1,786 characters per prompt
+🤖 AI-Driven — 98.9% of written lines came from AI
+📚 Verbose Prompter — average 1,742 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.13% of changed lines were hand-edited
+🚀 High AI Trust — 1.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -127,5 +127,5 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 00:15:39 UTC
+ Last Updated on 06/10/2026 22:45:33 UTC
 <!--END_SECTION:waka-->
