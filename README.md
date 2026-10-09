@@ -68,50 +68,50 @@ Sunday                   35 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 32 mins       ███████████████░░░░░░░░░░   59.63 % 
-Other                    2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-HTML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-C                        31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Python                   8 hrs 43 mins       ██████████████░░░░░░░░░░░   57.00 % 
+Other                    3 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+HTML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+C                        31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🔥 Editors: 
-Codex Vscode             8 hrs 42 mins       █████████████████░░░░░░░░   68.89 % 
-VS Code                  3 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   30.39 % 
-Codex CLI                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Codex Vscode             11 hrs 21 mins      ███████████████████░░░░░░   74.26 % 
+VS Code                  3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+Codex CLI                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🐱‍💻 Projects: 
-zya                      10 hrs 24 mins      █████████████████████░░░░   82.31 % 
-config                   58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-g-p-6a6de004145c8191ba41a41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-SPL-Cache                13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Unknown Project          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+zya                      11 hrs 42 mins      ███████████████████░░░░░░   76.49 % 
+g-p-6a6de004145c8191ba41a1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+config                   58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+codex-cli                25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+SPL-Cache                13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 💻 Operating System: 
-Linux                    10 hrs 45 mins      █████████████████████░░░░   85.05 % 
-Mac                      1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Linux                    12 hrs 3 mins       ████████████████████░░░░░   78.76 % 
+Mac                      3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 35 mins (91.66%)
+⏱ AI Coding Time: 14 hrs 38 mins (95.68%)
 
-✍️ 6,336 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 9,044 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 6,184,522 Input Tokens, 973,656 Output Tokens
+🔤 7,433,934 Input Tokens, 1,170,381 Output Tokens
 
-💵 $278.83 Estimated AI Cost This Week
+💵 $322.59 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 74 AI Prompts
+🧠 18 AI Sessions, 148 AI Prompts
 
-GPT                      6,339 lines         █████████████████████████   99.95 % 
-Codex-Vscode             3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+GPT                      9,051 lines         █████████████████████████   99.97 % 
+Codex-Vscode             3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 1,919 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,491 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -127,5 +127,5 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 23:31:16 UTC
+ Last Updated on 09/10/2026 22:49:56 UTC
 <!--END_SECTION:waka-->
