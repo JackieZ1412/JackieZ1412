@@ -23,9 +23,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C176%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C177%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-545%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-547%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -68,44 +68,44 @@ Sunday                   35 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 hrs 58 mins      ████████████████░░░░░░░░░   65.60 % 
-Other                    3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Markdown                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Text                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-CSV                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Python                   7 hrs 48 mins       ██████████████░░░░░░░░░░░   54.54 % 
+Other                    3 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.20 % 
+Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+CSV                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🔥 Editors: 
-Codex Vscode             19 hrs 3 mins       ████████████████████████░   96.39 % 
-VS Code                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Codex Vscode             13 hrs 5 mins       ███████████████████████░░   91.40 % 
+VS Code                  1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
 
 🐱‍💻 Projects: 
-zya                      18 hrs 29 mins      ███████████████████████░░   93.53 % 
-MerlinOSDI26AE           1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+zya                      14 hrs 10 mins      █████████████████████████   98.94 % 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+MerlinOSDI26AE           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 R-KV                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    19 hrs 46 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 16 mins (97.53%)
+⏱ AI Coding Time: 13 hrs 45 mins (96.07%)
 
-✍️ 8,616 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9,117 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,896,322 Input Tokens, 1,536,146 Output Tokens
+🔤 6,404,571 Input Tokens, 999,559 Output Tokens
 
-💵 $446.61 Estimated AI Cost This Week
+💵 $269.93 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 121 AI Prompts
+🧠 25 AI Sessions, 128 AI Prompts
 
-GPT                      8,618 lines         █████████████████████████   100.00 % 
+GPT                      9,119 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 125 characters per prompt
+📝 Concise Prompter — average 86 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -123,5 +123,5 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 22:34:46 UTC
+ Last Updated on 20/10/2026 21:48:40 UTC
 <!--END_SECTION:waka-->
